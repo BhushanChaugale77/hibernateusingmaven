@@ -1,0 +1,17 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+ <hibernate-mapping> 
+	<class name="com.prowings.hibernet.Student" table="Student"> 
+		<id name="id" type="int" column="id"> 
+			<generator class="assigned"/> 
+		</id> 
+		<property name="name"> 
+			<column name="name"/> 
+		</property> 
+		<property name="address"> 
+			<column name="address"/> 
+		</property> 
+	</class> 
+	
+ 
+</hibernate-mapping>
+ -->
